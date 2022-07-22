@@ -1,11 +1,11 @@
-title: Jekyll Serial Programmer
+title: insert name - Personal Coding Blog
 markdown: kramdown
-url: ""
-baseurl: "/jekyll-theme-serial-programmer"
+url: "http://localhost:4000"
+baseurl: ""
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
+  name: Francisco Santos
   email: dev_sharad@outlook.com
 
 plugins:
