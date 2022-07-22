@@ -1,7 +1,7 @@
 title: insert name - Personal Coding Blog
 markdown: kramdown
-url: "https://fsantos98.github.io/blog/" # http://localhost:4000
-baseurl: ""
+url: "https://fsantos98.github.io" # http://localhost:4000
+baseurl: "/blog/"
 
 # for atom feed
 author:
