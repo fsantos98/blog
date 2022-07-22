@@ -1,6 +1,6 @@
 title: insert name - Personal Coding Blog
 markdown: kramdown
-url: "http://localhost:4000"
+url: "blog" # http://localhost:4000
 baseurl: ""
 
 # for atom feed
